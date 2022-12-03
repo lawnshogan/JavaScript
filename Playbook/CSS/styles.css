@@ -18,6 +18,7 @@ h3{
     width: 5%;
   }
   
-  img:hover{
+  img{
     background-color: gold;
+    float:right;
   }
