@@ -53,6 +53,16 @@ div{
 }
 
 .shawn-zip{
-    height: 500px;
-    width: 500px;
+    height: 300px;
+    width: 300px;
+}
+
+.coding-image{
+    height: 300px;
+    width: 300px;
+}
+
+.contacts-img{
+    height: 100px;
+    width: 100px;
 }
